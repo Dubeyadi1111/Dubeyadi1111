@@ -5,8 +5,8 @@ I am a **Full Stack Developer** with a strong foundation in **MERN Stack (MongoD
 I enjoy solving complex problems, optimizing web applications, and creating seamless **user experiences**.  
 
 🎓 **Education:**  
-- B.Tech in Computer Science (2021 – 2024) - Cambridge Institute of Technology  
-- Diploma in Computer Science (2018 – 2021) - Cambridge Institute of Polytechnic  
+- B.Tech in Computer Science Engg. (2021 – 2024) - Cambridge Institute of Technology  
+- Diploma in Electrical & Electronics Engg. (2018 – 2021) - Cambridge Institute of Polytechnic  
 
 👨‍💻 **Professional Experience:**  
 - **Full Stack Web Developer Intern** - [Unified Mentor](#) *(Sep 2024 – Oct 2024)*  
