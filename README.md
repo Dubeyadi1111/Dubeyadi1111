@@ -1,77 +1,100 @@
-# 👋 Hi, I'm Aditya Dubey (@Dubeyadi1111)
+<!-- GitHub Profile README for Aditya Dubey -->
 
-## 🚀 Full Stack Developer | MERN Stack | Problem Solver  
-Passionate about building **scalable web apps** with **React.js & Node.js**, optimizing databases, and crafting seamless user experiences.  
-
----
-
-## 🛠️ **Tech Stack**  
-
-### **Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### **Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6F61?style=for-the-badge)
-
-### **Databases & Tools**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 💼 **Professional Journey**  
-
-### **Full Stack Developer Intern**  
-[**Unified Mentor**](https://www.unifiedmentor.com/) | *Sep 2024 – Oct 2024*  
-- Built **3 React apps** with Node.js backends, improving UI performance by **40%**.  
-- Implemented **JWT authentication** for secure API endpoints.  
-- Optimized **MongoDB queries**, reducing data retrieval time by **35%**.  
-
-### **Application Development Intern**  
-[**E-Pointer Consultancy**](https://www.epointer.in/) | *Jun 2022 – Aug 2022*  
-- Developed responsive UIs with **React & Bootstrap**.  
-- Designed **5+ REST APIs** using Express.js and documented them.  
-
----
-
-## 🏆 **Projects**  
-
-### **Portfolio Website**  
-🔗 [Live Demo](https://portfolio-main-phi-indol.vercel.app/)  
-- Built with **React, Tailwind CSS, and Framer Motion** for animations.  
-- **100% Lighthouse score** for performance and accessibility.  
-
-### **E-Commerce Dashboard (MERN Stack)**  
-🔗 [GitHub Repo](#)  
-- Integrated **payment gateways** (Razorpay) and **JWT auth**.  
-- **Real-time analytics** with MongoDB aggregations.  
-
----
-
-## 📊 **GitHub Analytics**  
+<h1 align="center">Hi 👋, I'm Aditya Dubey</h1>
+<h3 align="center">🚀 Frontend Developer | React Enthusiast | MERN Stack Developer</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Dubeyadi1111&theme=react&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dubeyadi1111&layout=compact&theme=react&hide_border=true" />
+  <a href="https://github.com/Dubeyadi1111"><img src="https://img.shields.io/github/followers/Dubeyadi1111?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="mailto:dubey9919aditya@gmail.com"><img src="https://img.shields.io/badge/Email-dubey9919aditya@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/aditya-dubey-731a34328"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Dubey-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://dubeyadi1111.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Click%20Here-brightgreen?style=flat-square&logo=vercel"></a>
 </p>
 
 ---
 
-## 🌍 **Let’s Connect!**  
+### 👨‍💻 About Me
 
-📧 **Email:** [dubey9919aditya@gmail.com](mailto:dubey9919aditya@gmail.com)  
-💼 **LinkedIn:** [Aditya Dubey](https://linkedin.com/in/aditya-dubey-731a34328)  
-🐙 **GitHub:** [@Dubeyadi1111](https://github.com/Dubeyadi1111)  
-🌐 **Portfolio:** [Explore My Work](https://portfolio-main-phi-indol.vercel.app/)  
+- 🎓 **B.Tech in Computer Science** from Cambridge Institute of Technology (2020–2024)
+- 🔭 Currently working on a **custom Shopify page** for Ecomexperts hiring test
+- 👯 Open to collaborate on **MERN Stack projects** & **Frontend UI/UX-focused apps**
+- 🌱 Learning **Next.js**, **TypeScript**, and **Shopify Liquid**
+- 💬 Ask me about **React.js**, **Vue**, **GSAP**, or **Full Stack Development**
+- 🧠 Exploring Generative AI for Frontend Workflows
+- ⚡ Fun fact: *I debug in my sleep sometimes... literally!*
+
+---
+
+### 💼 Projects
+
+🚀 **[Payment Gateway Integration](https://payment-gateway-one-xi.vercel.app/)**  
+PCI-compliant, async payment UX with 99.2% transaction success  
+`React + Node.js + TypeScript + MongoDB`
+
+🎯 **[Razorpay Clone](https://razor-pay-clone-bswsukox5-dubeyadi1111s-projects.vercel.app/)**  
+Pixel-perfect UI clone built with modern HTML/CSS/JS stack  
+`HTML + CSS + JS`
+
+🌐 **[Personal Portfolio](https://dubeyadi1111.vercel.app/)**  
+Mobile-first, responsive portfolio showcasing my work and blogs  
+`React + Vercel`
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**  
+`JavaScript` `TypeScript` `C#` `HTML` `CSS`
+
+**Frontend**  
+`React` `Vue.js` `Tailwind CSS` `Bootstrap` `GSAP`
+
+**Backend**  
+`Node.js` `Express.js` `ASP.NET` `REST APIs`
+
+**Database**  
+`MongoDB` `MySQL` `SQL Server`
+
+**Tools & Platforms**  
+`Git` `GitHub` `Postman` `Figma` `Vercel` `Netlify`
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dubeyadi1111&label=Profile%20Views&color=blue&style=flat" alt="Dubeyadi1111" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dubeyadi1111&show_icons=true&theme=radical" alt="Aditya's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dubeyadi1111&theme=radical" alt="GitHub Streak" width="49%"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dubeyadi1111&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🏅 Certifications
+
+- 🧠 **Digital Badge** – KraftPixel Digital Solutions Pvt. Ltd.  
+  `Credential ID: 19696625939644`
+
+- 💡 **HTML, CSS, and Generative AI** – LinkedIn Learning  
+  `Certificate ID: e2aa9b85dec3...`
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 [Portfolio](https://dubeyadi1111.vercel.app/)
+- 📧 Email: [dubey9919aditya@gmail.com](mailto:dubey9919aditya@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/aditya-dubey-731a34328)
+- 🧑‍💻 [GitHub](https://github.com/Dubeyadi1111)
+
+---
+
+### ☕ Support Me
+
+If you like my work or just want to say hi, buy me a coffee!  
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-yellow?style=flat-square&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/dubeyadi1111)
+
+---
+
+> 🔄 Updated regularly | Built with ❤️ by Aditya Dubey
